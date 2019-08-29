@@ -27,6 +27,11 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: red ;
+    text-decoration: underline;
+}
+
 .post {
     padding-bottom:50px ;
     border-bottom: 1px solid #d5d5d5;
