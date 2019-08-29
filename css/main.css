@@ -49,8 +49,8 @@ nav {
 
 .header {
     height: 100px ;
-    padding: 60px;
-    text-align: center;
+    padding: 20px;
+    text-align: left ;
     background: green ;
     color: white;
     background-image: url("img_nature.jpg");
