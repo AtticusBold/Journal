@@ -3,10 +3,10 @@ body {
     margin: auto;
     max-width: 850px;
     background: red;
+    font-family: verdana, Sans-Serif;
 }
 
 nav {
-    font-family: verdana, Sans-Serif;
     font-size: 1em;
     padding-top:50px ;
     padding-top:50px ;
@@ -14,7 +14,6 @@ nav {
 }
 
 footer {
-    font-family: verdana, Sans-Serif;
     font-size: 1em;
     padding-top:50px ;
     display: inline;
