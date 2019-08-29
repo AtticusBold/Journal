@@ -11,4 +11,6 @@ description: The Words of Atticus Bold
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
 
+permalink: /blog/:year/:month/:day/:title
+
 theme: jekyll-theme-midnight
