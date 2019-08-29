@@ -5,10 +5,15 @@ body {
     background: red;
 }
 
+nav {
+    font-family: verdana, Sans-Serif;
+    font-size: 26px;
+}
+
 footer {
-  padding-top:50px ;
+    padding-top:50px ;
 }
 
 .post {
-  padding-bottom:20px ;
+    padding-bottom:20px ;
 }
