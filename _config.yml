@@ -11,10 +11,10 @@ description: The Words of Atticus Bold
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
 
-permalink: /journal/blog/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title
 
 # Enable Pagination
 paginate: 5
-paginate_path: "/journal/blog/page:num/"
+paginate_path: "/blog/page:num/"
 
 theme: jekyll-theme-midnight
