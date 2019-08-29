@@ -7,10 +7,12 @@ body {
 
 nav {
     font-family: verdana, Sans-Serif;
-    font-size: 26px;
+    font-size: 1em;
 }
 
 footer {
+    font-family: verdana, Sans-Serif;
+    font-size: 1em;
     padding-top:50px ;
 }
 
