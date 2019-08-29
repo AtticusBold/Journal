@@ -9,31 +9,36 @@ body {
 
 h1 {
   color: #505050;
-  text-align: left;
-  font-family: "Book Antiqua", Palatino, serif;
-  font-style: italic;
-  font-size: 1.5em;
+    text-align: left;
+    font-family: "Book Antiqua", Palatino, serif;
+    font-style: italic;
+    font-size: 1.8em;
 }
 
 h2 {
-  color: #505050;
-  text-align: left;
-  font-size: 1.4em;
+    color: #505050;
+    text-align: left;
+    font-family: verdana, Sans-Serif ;
+    font-size: 1.6em;
 }
 
 h3 {
-  color: #505050;
-  text-align: left;
-  font-size: 1.2em;
+    color: #505050;
+    text-align: left;
+    font-family: verdana, Sans-Serif ;
+    font-size: 1.4em;
 }
 
-color: #505050;
-  text-align: left;
-  font-size: 1.1em;
+h4 { 
+    color: #505050;
+    text-align: left;
+    font-family: verdana, Sans-Serif ;
+    font-size: 1.3em;
+}
 
 p {
-  font-size: 1.0em;
-  line-height: 1.5;
+    font-size: 1.2em;
+    line-height: 1.5;
 }
 
 nav {
