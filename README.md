@@ -1,2 +1,2 @@
 # Journal
-The words of Atticus Bold
+These are the words of Atticus Bold
